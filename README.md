@@ -21,7 +21,7 @@ Install Vagrant plugins to make life easier:
 
 Building the virtual machine is this easy:
 
-    host $ git clone --recursive https://github.com/gullitmiranda/dev.git
+    host $ git clone --recursive https://github.com/WesleyRibs/dev.git
     host $ cd dev
     host $ vagrant up
 
